@@ -29,3 +29,15 @@ output from the linear regression
 - This linear model prediction of mpg of MechaCar prototypes is effectively accurate at 71.5% per the R-squared value.
 
 Summary 
+
+![image](https://user-images.githubusercontent.com/90879122/153811500-31fa6d23-1656-403b-bd6e-14458b389df2.png)
+
+![image](https://user-images.githubusercontent.com/90879122/153811526-bc275d51-fe9a-4796-888a-623ece930a50.png)
+
+![image](https://user-images.githubusercontent.com/90879122/153812102-0837f125-28c9-4833-83eb-16d8ad0c60ce.png)
+
+![image](https://user-images.githubusercontent.com/90879122/153812744-58d7eb8d-8e53-4bd5-80c7-a702bcdd92e3.png)
+
+![image](https://user-images.githubusercontent.com/90879122/153812817-009285db-8e34-4ac9-952b-297daad62022.png)
+
+
