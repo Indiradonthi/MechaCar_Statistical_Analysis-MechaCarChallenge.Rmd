@@ -13,9 +13,9 @@ The MechaCar is suffering from production troubles that are blocking the manufac
 
 ## RESULTS
 
-- Linear Regression to Predict MPG
+- **Linear Regression to Predict MPG**
 
-**Output from the linear regression**
+### **Output from the linear regression**
 
 ![image](https://user-images.githubusercontent.com/90879122/152166720-d441ad7e-4c51-45bc-ae67-3e5c48a4f78d.png)
 
