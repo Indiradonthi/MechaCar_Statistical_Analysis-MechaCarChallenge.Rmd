@@ -11,11 +11,11 @@ The MechaCar is suffering from production troubles that are blocking the manufac
 - Run t-tests to determine if the manufacturing lots are statistically different from the mean population.
 - Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. For each statistical analysis, and write a summary interpretation of the findings.
 
-RESULTS
+## RESULTS
 
-Linear Regression to Predict MPG
+-- Linear Regression to Predict MPG
 
-output from the linear regression
+* output from the linear regression
 
 ![image](https://user-images.githubusercontent.com/90879122/152166720-d441ad7e-4c51-45bc-ae67-3e5c48a4f78d.png)
 
