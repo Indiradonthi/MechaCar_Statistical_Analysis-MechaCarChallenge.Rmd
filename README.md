@@ -50,4 +50,26 @@ The MechaCar is suffering from production troubles that are blocking the manufac
 
 ![image](https://user-images.githubusercontent.com/90879122/153812817-009285db-8e34-4ac9-952b-297daad62022.png)
 
+## Study Design: MechaCar vs Competition
 
+This statistical study can quantify that the MechaCar performs comparably with the competition. In the study design, the following metrics would be of interest to a consumer: cost, city or highway fuel efficiency, horse power, maintenance cost, and safety ratings.
+
+- Test Metrics population Data
+- cost
+- city or highway fuel efficiency
+- horse power
+- maintenance cost
+- safety ratings
+
+### Hypothesis
+
+- Null Hypothesis - If any of the identified metrics are favorable the cost of the vehicle will be higher. It would be favorable to have high fuel efficiency, high horse power, low maintenance costs, and the highest safety ratings.
+
+- Alternative Hypothesis - The cost of the vehicle is not determined by favorable metrics such as better fuel efficiency, better horse power, maintenance cost, and safety ratings.
+
+- ### Hypothesis tests
+
+- Compute the p-value using statistical analysis.
+- Compare p-value to the significance level.
+- Reject (or fail to reject) the null hypothesis and generate the conclusion.
+- Two way Analysis of variance ANOVA test
